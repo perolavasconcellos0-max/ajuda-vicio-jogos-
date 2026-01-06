@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Serenity Bloom - Jornada de Recuperação",
+  "description": "Um aplicativo gamificado projetado para ajudar na superação do vício em jogos de azar através de recompensas positivas, rastreamento de progresso e suporte de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
